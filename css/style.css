@@ -1,0 +1,133 @@
+header {
+  background-color: #3884ff;
+  float: left;
+  width: 1200px;
+  border: 2px solid #ffffff;
+  padding: 8px;
+  text-align: left;
+  min-width: 500px;
+  font-family: bebas neue; 
+}
+
+footer {
+  background-color: #3884ff;
+  float: left;
+  width: 1200px;
+  border: 1px solid #ffffff;
+  padding: 10px;
+  text-align: left;
+  min-width: 500px;
+  font-family: bebas neue; 
+
+}
+
+ section {
+  width: 800px;
+  padding: 10px;
+  float: right;
+  text-align: left; font-family: helvetica;}
+ 
+ 
+
+
+}
+nav  li {
+  text-align: right;
+  font-family:helvetica;
+  align-content: right;
+  float: right;
+}
+
+
+}
+
+li {
+    display: inline;
+}
+
+aside {
+ text-align: left; 
+ float: left; 
+ font-family:helvetica;
+}
+
+.style {
+
+  text-align: right;
+  align-content: top;
+  float: right;
+  font-family: bebas neue;
+  display: inline;
+  display: block;
+  padding: 8px;
+  background-color: #fff
+  max-width:100%;
+}
+
+
+}
+
+.nav ul {
+  list-style: inline;
+  background-color: #b39975;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  font-family: montserrat;
+  text-decoration: none;
+  font-size: 20px
+}
+
+.aside 
+
+{
+   font-family: bebas neue;
+   padding: 10px;
+   
+}
+
+ .section 
+{
+ font-family: bebas neue;
+ padding: 8px;
+ font-size: : 10px; 
+ float: right; 
+ width: 75%;
+}
+
+
+.header
+
+{
+  align-content: center;
+}
+
+
+
+h2
+{
+  font-family: montserrat;
+  padding: 8px
+}
+
+header h1 {
+
+font-family: bebas neue;
+font-size: : 30px; 
+
+}
+
+
+@media (max-width: 800px) { 
+
+
+}
+
+
+
+
+
+
+
+
+
